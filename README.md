@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [mukeshkbj/singlecell](https://github.com/mukeshkbj/singlecell).**
+>
+> Submitted version: [`fb7d8cf`](https://github.com/science-works/rtw-2026-seuratatouille-singlecell/tree/fb7d8cf5d9220aaf8f1e0320f8007cf49a6115b5). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 # singlecell — `scpipe`, an agentic Seurat pipeline
 
 A production single-cell RNA-seq pipeline with **Seurat (R)** as the backbone, **GPU steps
